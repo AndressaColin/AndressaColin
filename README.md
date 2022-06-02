@@ -1,4 +1,4 @@
-### Olá! Eu sou a Andressa Colin
+## Olá! Eu sou Andressa Colin desenvolvedora e analista de sistemas
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
