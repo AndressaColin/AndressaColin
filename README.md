@@ -1,4 +1,4 @@
-## Olá! Eu sou Andressa Colin desenvolvedora e analista de sistemas
+## Olá! Eu sou Andressa Colin, desenvolvedora com foco em back.
 
 <div align="center">
   <a href="https://github.com/AndressaColin">
