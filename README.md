@@ -1,5 +1,4 @@
-## Olá! Eu sou Andressa Colin, desenvolvedora com foco em back.
-
+## Olá! Eu sou Andressa Colin, analista e desenvolvedora de sistemas.
 <div align="center">
   <a href="https://github.com/AndressaColin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaColin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,13 +6,7 @@
 </div>
 
   
-  <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Dressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Dressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Dressa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-
-  </div>
+  
   
 <div>
 <a href="https://www.youtube.com/channel/UC2gQ8LIii5zTFekaiVBwhXQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
