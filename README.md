@@ -1,4 +1,8 @@
-## Olá! Eu sou Andressa Colin, analista e desenvolvedora de sistemas
+## Olá! Eu sou Andressa Colin
+
+- Estudante de Sistemas de Informações 👩🏽‍💻
+- Criativa e inspirada 🌱
+- Andressacolinbarbosa@gmail.com 🍓
   
   
 <div>
