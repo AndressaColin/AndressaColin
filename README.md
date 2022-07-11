@@ -1,6 +1,7 @@
 ## Olá! Eu sou Andressa Colin
 
-- Estudante de Sistemas de Informações 👩🏽‍💻
+- Estudante de Sistemas de Informações - UFGD 👩🏽‍💻
+- Desenvolvedora Back-End 
 - Criativa e inspirada 🌱
 - Andressacolinbarbosa@gmail.com 🍓
   
