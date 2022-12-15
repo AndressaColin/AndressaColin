@@ -1,7 +1,7 @@
 ## Olá! Eu sou Andressa Colin
 
 - Estudante de Sistemas de Informações - UFGD 👩🏽‍💻
-- Desenvolvedora Back-End 
+- No caminho para ser uma desenvolvedora de software. 
 - Criativa e inspirada 🌱
 - Andressacolinbarbosa@gmail.com 🍓
   
