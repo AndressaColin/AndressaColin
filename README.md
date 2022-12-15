@@ -1,8 +1,8 @@
-## Olá! Eu sou Andressa Colin
+## Hello there! I'm Andressa Colin
 
-- Estudante de Sistemas de Informações - UFGD 👩🏽‍💻
-- No caminho para ser uma desenvolvedora de software. 
-- Criativa e inspirada 🌱
+- Stundent Federal University of Grande Dourados 
+- On the way to be a Software Developer 👩🏽‍💻
+- Creative and Inspired 🌱
 - Andressacolinbarbosa@gmail.com 🍓
   
   
