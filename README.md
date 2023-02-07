@@ -1,6 +1,6 @@
 ## Hello there! I'm Andressa Colin
 
-- Stundent Federal University of Grande Dourados 
+- Stundent Federal University of Mato Grosso do Sul
 - On the way to be a Software Developer 👩🏽‍💻
 - Creative and Inspired 🌱
 - Andressacolinbarbosa@gmail.com 🍓
