@@ -3,7 +3,7 @@
 - Stundent Federal University of Mato Grosso do Sul
 - On the way to be a Software Developer 👩🏽‍💻
 - Creative and Inspired 🌱
-- Andressacolinbarbosa@gmail.com 🍓
+- Send me a E-mail, Andressacolinbarbosa@gmail.com 🍓
   
   
 <div>
