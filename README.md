@@ -7,9 +7,9 @@
 
 ### Skills
 - Java
-- JavaScript
 - Python
-- HTML/CSS
+- CyberSecurity
+- AI and Cloud Computing
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact)
