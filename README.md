@@ -5,12 +5,6 @@
 - Creative and Inspired 🌱
 - Send me an email at andressacolinbarbosa@gmail.com 🍓
 
-### Skills
-- Java
-- Python
-- CyberSecurity
-- AI and Cloud Computing
-
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=radical)
 
