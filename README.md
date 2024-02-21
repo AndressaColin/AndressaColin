@@ -12,7 +12,7 @@
 - AI and Cloud Computing
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=radical)
 
 <div>
   <a href="https://www.youtube.com/channel/UC2gQ8LIii5zTFekaiVBwhXQ" target="_blank">
