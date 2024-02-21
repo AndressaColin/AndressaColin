@@ -6,7 +6,7 @@
 - Send me an email at andressacolinbarbosa@gmail.com 🍓
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=ambient_gradient)
 
 
 
