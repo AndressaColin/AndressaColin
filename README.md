@@ -6,9 +6,9 @@
 - Send me an email at andressacolinbarbosa@gmail.com 🍓
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=onedark)
 
-<div style="background-color:#33658A; padding: 10px; border-radius: 5px;">
+<div>
   <a href="https://www.youtube.com/channel/UC2gQ8LIii5zTFekaiVBwhXQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
