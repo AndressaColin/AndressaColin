@@ -3,7 +3,7 @@
 - Student at Federal University of Mato Grosso do Sul 🎓
 - Software Developer 👩🏽‍💻
 - Creative and Inspired 🌱
-- Send me an email at andressacolinbarbosa@gmail.com 🍓
+
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=ambient_gradient)
