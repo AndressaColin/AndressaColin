@@ -1,7 +1,7 @@
 ## Hello there! I'm Andressa Colin 👋
 
-- Student at Federal University of Mato Grosso do Sul 🎓
-- Software Developer 👩🏽‍💻
+- Federal University of Mato Grosso do Sul 🎓
+- Student of Information Systems 👩🏽‍💻
 - Creative and Inspired 🌱
 
 
