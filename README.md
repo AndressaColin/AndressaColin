@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 - **AI & ML** research to tackle environmental challenges and promote **green technologies** 🌱.
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=radical)
 
 ## 📧 Contact Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andressa-colin-barbosa)
