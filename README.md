@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 
 
 ---
-![image](https://github.com/user-attachments/assets/27daaec4-e746-40fe-b609-46600024becb)
+
 
 
 
