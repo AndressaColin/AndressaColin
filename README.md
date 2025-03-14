@@ -25,6 +25,10 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 
 ## 📈 GitHub Stats
 ![Andressa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=radical)
+![Wakatime](https://wakatime.com/share/@andressacolin/abc123.png)
+![GitHub Contributions](https://github-contribs.vercel.app/api?username=andressacolin&theme=radical)
+
 
 ## 📧 Contact Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andressa-colin-barbosa)
