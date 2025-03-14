@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 - 💬 Feel free to reach out if you want to talk about **technology**, **environmental sustainability**, or **open-source collaboration**!
 
 ## 🚀 Technologies & Tools
-- **Languages**: Java, Python, C/C++
+- **Languages**: Java, Python, C/C++, SQL
 - **Tools**: Git, MongoDB, Eclipse, VSCode
 - **Frameworks**: TensorFlow, Qiskit
 - **Cloud**: Azure
