@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **developer** and **technology enthusiast** from **Pantanal, MS, Brazil**. 
 
 ## About Me
-- 🌱 I'm passionate about using **AI** to improve the world, particularly in my home region, the **Pantanal**.
+- 🌱 I'm passionate about using **AI** to improve the world, particularly in my home region.
 - 🌍 I store all my **codes** and **studies** here, from beginner projects to more advanced research, to share and track my progress.
 - 💬 Feel free to reach out if you want to talk about **technology**, **environmental sustainability**, or **open-source collaboration**!
 
