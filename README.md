@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 
 ## 🚀 Technologies & Tools
 - **Languages**: Java, Python, C/C++, SQL
-- **Tools**: Git, MongoDB, Eclipse, VSCode
+- **Tools**: Git, MongoDB, VSCode
 - **Frameworks**: TensorFlow, Qiskit
 - **Cloud**: Azure
-- **Miscellaneous**: Arduino, AI-based systems for sustainable development
+- **Miscellaneous**: Arduino, Jupyter Notebook
 
 ## 📚 Currently Learning
 - Machine Learning & AI techniques
