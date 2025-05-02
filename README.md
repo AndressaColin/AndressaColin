@@ -8,16 +8,22 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou uma **desenvolvedora** e **entusiasta 
 - 💬 Sinta-se à vontade para entrar em contato se quiser conversar sobre **tecnologia**, **sustentabilidade ambiental** ou **colaboração em projetos open-source**!
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens**: Java, Python, C/C++, SQL  
-- **Ferramentas**: Git, MongoDB, VSCode  
-- **Frameworks**: TensorFlow, Qiskit  
-- **Cloud**: Azure, AWS Cloud  
-- **Outros**: Arduino, Jupyter Notebook  
+- **Linguagens**: Python, Java, C/C++, SQL  
+- **Análise de Dados**: Pandas, NumPy, Scikit-learn  
+- **Visualização de Dados**: Matplotlib, Seaborn, Plotly, Streamlit  
+- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode, Jupyter Notebook  
+- **Bancos de Dados**: MongoDB, SQLite, PostgreSQL  
+- **Frameworks e Bibliotecas**: TensorFlow, PyTorch, Qiskit  
+- **Cloud & DevOps**: AWS, Azure, Docker (básico)  
+- **Hardware & IoT**: Arduino, sensores analógicos e digitais 
 
 ## 📚 Estudando Atualmente
-- Técnicas de **Machine Learning e Inteligência Artificial**
+- **Machine Learning** e **Inteligência Artificial**
+- **Ciência de Dados** e **Análise Exploratória**
+- **Storytelling com Dados**: visualização clara e comunicação de insights
 - **Computação Quântica** e fundamentos de **Algoritmos Quânticos**
 - **Arquitetura de Software** e design de **sistemas escaláveis**
+- Técnicas de **visualização interativa** com Python (Plotly, Streamlit)
 
 ## 🌱 Projetos em Andamento
 - **Ecovoluntários**: Um projeto que busca usar a **tecnologia para promover a sustentabilidade ambiental** no **Pantanal** 🌿  
