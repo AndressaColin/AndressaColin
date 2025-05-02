@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **developer** and **technology en
 - **Languages**: Java, Python, C/C++, SQL
 - **Tools**: Git, MongoDB, VSCode
 - **Frameworks**: TensorFlow, Qiskit
-- **Cloud**: Azure
+- **Cloud**: Azure, AWS Cloud
 - **Miscellaneous**: Arduino, Jupyter Notebook
 
 ## 📚 Currently Learning
