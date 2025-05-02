@@ -1,37 +1,33 @@
-# Hi there, I'm Andressa Colin 👋
+# Olá! Eu sou a Andressa Colin 👋
 
-Welcome to my GitHub profile! I'm a passionate **developer** and **technology enthusiast** from **Pantanal, MS, Brazil**. 
+Bem-vindo(a) ao meu perfil no GitHub! Sou uma **desenvolvedora** e **entusiasta de tecnologia** apaixonada, diretamente do **Pantanal, MS, Brasil**.
 
-## About Me
-- 🌱 I'm passionate about using **AI** to improve the world, particularly in my home region.
-- 🌍 I store all my **codes** and **studies** here, from beginner projects to more advanced research, to share and track my progress.
-- 💬 Feel free to reach out if you want to talk about **technology**, **environmental sustainability**, or **open-source collaboration**!
+## 👩‍💻 Sobre Mim
+- 🌱 Sou apaixonada por usar **Inteligência Artificial** para melhorar o mundo, especialmente na minha região de origem.
+- 🌍 Armazeno aqui todos os meus **códigos** e **estudos**, desde projetos iniciais até pesquisas mais avançadas, como forma de compartilhar e acompanhar meu progresso.
+- 💬 Sinta-se à vontade para entrar em contato se quiser conversar sobre **tecnologia**, **sustentabilidade ambiental** ou **colaboração em projetos open-source**!
 
-## 🚀 Technologies & Tools
-- **Languages**: Java, Python, C/C++, SQL
-- **Tools**: Git, MongoDB, VSCode
-- **Frameworks**: TensorFlow, Qiskit
-- **Cloud**: Azure, AWS Cloud
-- **Miscellaneous**: Arduino, Jupyter Notebook
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens**: Java, Python, C/C++, SQL  
+- **Ferramentas**: Git, MongoDB, VSCode  
+- **Frameworks**: TensorFlow, Qiskit  
+- **Cloud**: Azure, AWS Cloud  
+- **Outros**: Arduino, Jupyter Notebook  
 
-## 📚 Currently Learning
-- Machine Learning & AI techniques
-- **Quantum Computing** and the fundamentals of **Quantum Algorithms**
-- **Software architecture** and designing **scalable systems**
+## 📚 Estudando Atualmente
+- Técnicas de **Machine Learning e Inteligência Artificial**
+- **Computação Quântica** e fundamentos de **Algoritmos Quânticos**
+- **Arquitetura de Software** e design de **sistemas escaláveis**
 
-## 🌱 What I'm Working On
-- **Ecovoluntários**: A project aiming to use **technology for environmental sustainability** in the **Pantanal** region 🌿.
-- **AI & ML** research to tackle environmental challenges and promote **green technologies** 🌱.
+## 🌱 Projetos em Andamento
+- **Ecovoluntários**: Um projeto que busca usar a **tecnologia para promover a sustentabilidade ambiental** no **Pantanal** 🌿  
+- Pesquisas em **IA e ML** voltadas para enfrentar desafios ambientais e fomentar **tecnologias verdes** 🌱
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressacolin&layout=compact&theme=cobalt)
 
-## 📧 Contact Me
+## 📧 Entre em Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andressa-colin-barbosa)
-
-
-
-
 
 
 
