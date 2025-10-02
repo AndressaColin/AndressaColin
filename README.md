@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems Student | Data Science & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFiMW55aHVrcDhheGZkc2VhOXFtcTYwN2t4cjNrdzFieDVjZHhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" width="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFmMDZmdmF2cDJwZ2o5MmNnemg2b3ZwdnozZXVnMXE3ZjVsOWozNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif" width="100">
 </p>
 
 ---
