@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Andressa! 👋</h1>
+<h1 align="center">Hi, I'm Andressa! 🩷😊</h1>
 <h3 align="center">Information Systems Student | Data Science & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFmMDZmdmF2cDJwZ2o5MmNnemg2b3ZwdnozZXVnMXE3ZjVsOWozNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jM4NGpvx6jZmW93hcZ/giphy.gif" width="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc3cHIwdjd0bW5vbXJqN2Z6a24weGVnc3RjYmhmbmRhb2x1aTBxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" width="100">
 </p>
 
 ---
