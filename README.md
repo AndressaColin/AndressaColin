@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently focusing on **Machine Learning projects on the Cloud**.
 - 🌱 I’m currently learning more about **MLOps and data architecture on AWS**.
-- 📫 How to reach me: **[your.email@provider.com]**
+- 📫 How to reach me: **andressacolinbarbosa@gmail.com**
 - 🤝 I'm looking for **internship or junior-level opportunities** in the Data Science field.
 
 ---
@@ -48,8 +48,8 @@
 
 <h3 align="left">📊 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&locale=en&theme=dracula" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[AndressaColin]&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[AndressaColin]&layout=compact&locale=en&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
