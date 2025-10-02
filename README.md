@@ -11,8 +11,8 @@
   I am a Bachelor's student in Information Systems at the <strong>Federal University of Mato Grosso do Sul (UFMS)</strong>, passionate about transforming raw data into actionable insights and building intelligent, scalable solutions in the cloud. My foundational experience includes developing simple websites and systems, which gave me a broad understanding of the full software lifecycle. I have a proactive, analytical profile and am always exploring new technologies to solve complex problems.
 </p>
 
-- 🔭 I’m currently focusing on **Machine Learning projects on the Cloud**.
-- 🌱 I’m currently learning more about **MLOps and data architecture on AWS**.
+- 🔭 I’m currently focusing on **Data Analysis**.
+- 🌱 I’m currently learning more about **MLOps and data architecture**.
 - 🧠 I'm also a former **competitive programming** enthusiast, passionate about algorithms and problem-solving.
 - 📫 How to reach me: **andressacolinbarbosa@gmail.com**
 - 🤝 I'm looking for **internship or junior-level opportunities** in the Data Science field.
